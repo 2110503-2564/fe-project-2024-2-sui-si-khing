@@ -43,9 +43,3 @@ const CarPanel: React.FC<CarPanelProps> = ({ cars }) => {
 };
 
 export default CarPanel;
-
-
-
-
-
-

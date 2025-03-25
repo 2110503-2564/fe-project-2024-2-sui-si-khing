@@ -20,6 +20,3 @@ export default async function Booking() {
   );
 }
 
-
-
-
